@@ -1,1 +1,1 @@
-Ceci est un fichier inutile. Psuh
+Ceci est un fichier inutile.
